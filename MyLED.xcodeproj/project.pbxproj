@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C34423D714ECE52C00495B48 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C34423D614ECE52C00495B48 /* UIKit.framework */; };
+		C34423D914ECE52C00495B48 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C34423D814ECE52C00495B48 /* Foundation.framework */; };
+		C34423DB14ECE52C00495B48 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C34423DA14ECE52C00495B48 /* CoreGraphics.framework */; };
+		C34423E114ECE52C00495B48 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C34423DF14ECE52C00495B48 /* InfoPlist.strings */; };
+		C34423E314ECE52C00495B48 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C34423E214ECE52C00495B48 /* main.m */; };
+		C34423E714ECE52C00495B48 /* wintelAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C34423E614ECE52C00495B48 /* wintelAppDelegate.m */; };
+		C34423EA14ECE52C00495B48 /* wintelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C34423E914ECE52C00495B48 /* wintelViewController.m */; };
+		C34423ED14ECE52C00495B48 /* wintelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C34423EB14ECE52C00495B48 /* wintelViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C34423D214ECE52C00495B48 /* MyLED.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyLED.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C34423D614ECE52C00495B48 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C34423D814ECE52C00495B48 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C34423DA14ECE52C00495B48 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C34423DE14ECE52C00495B48 /* MyLED-Info.plist */ = {isa = PBXFileReference; path = "MyLED-Info.plist"; sourceTree = "<group>"; };
+		C34423E014ECE52C00495B48 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C34423E214ECE52C00495B48 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C34423E414ECE52C00495B48 /* MyLED-Prefix.pch */ = {isa = PBXFileReference; path = "MyLED-Prefix.pch"; sourceTree = "<group>"; };
+		C34423E514ECE52C00495B48 /* wintelAppDelegate.h */ = {isa = PBXFileReference; path = wintelAppDelegate.h; sourceTree = "<group>"; };
+		C34423E614ECE52C00495B48 /* wintelAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wintelAppDelegate.m; sourceTree = "<group>"; };
+		C34423E814ECE52C00495B48 /* wintelViewController.h */ = {isa = PBXFileReference; path = wintelViewController.h; sourceTree = "<group>"; };
+		C34423E914ECE52C00495B48 /* wintelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wintelViewController.m; sourceTree = "<group>"; };
+		C34423EC14ECE52C00495B48 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/wintelViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C34423CF14ECE52C00495B48 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C34423D714ECE52C00495B48 /* UIKit.framework in Frameworks */,
+				C34423D914ECE52C00495B48 /* Foundation.framework in Frameworks */,
+				C34423DB14ECE52C00495B48 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C34423C714ECE52C00495B48 = {
+			isa = PBXGroup;
+			children = (
+				C34423DC14ECE52C00495B48 /* MyLED */,
+				C34423D514ECE52C00495B48 /* Frameworks */,
+				C34423D314ECE52C00495B48 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C34423D314ECE52C00495B48 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C34423D214ECE52C00495B48 /* MyLED.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C34423D514ECE52C00495B48 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C34423D614ECE52C00495B48 /* UIKit.framework */,
+				C34423D814ECE52C00495B48 /* Foundation.framework */,
+				C34423DA14ECE52C00495B48 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C34423DC14ECE52C00495B48 /* MyLED */ = {
+			isa = PBXGroup;
+			children = (
+				C34423E514ECE52C00495B48 /* wintelAppDelegate.h */,
+				C34423E614ECE52C00495B48 /* wintelAppDelegate.m */,
+				C34423E814ECE52C00495B48 /* wintelViewController.h */,
+				C34423E914ECE52C00495B48 /* wintelViewController.m */,
+				C34423EB14ECE52C00495B48 /* wintelViewController.xib */,
+				C34423DD14ECE52C00495B48 /* Supporting Files */,
+			);
+			path = MyLED;
+			sourceTree = "<group>";
+		};
+		C34423DD14ECE52C00495B48 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C34423DE14ECE52C00495B48 /* MyLED-Info.plist */,
+				C34423DF14ECE52C00495B48 /* InfoPlist.strings */,
+				C34423E214ECE52C00495B48 /* main.m */,
+				C34423E414ECE52C00495B48 /* MyLED-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C34423D114ECE52C00495B48 /* MyLED */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C34423F014ECE52C00495B48 /* Build configuration list for PBXNativeTarget "MyLED" */;
+			buildPhases = (
+				C34423CE14ECE52C00495B48 /* Sources */,
+				C34423CF14ECE52C00495B48 /* Frameworks */,
+				C34423D014ECE52C00495B48 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyLED;
+			productName = MyLED;
+			productReference = C34423D214ECE52C00495B48 /* MyLED.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C34423C914ECE52C00495B48 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = wintel;
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = IDS;
+			};
+			buildConfigurationList = C34423CC14ECE52C00495B48 /* Build configuration list for PBXProject "MyLED" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C34423C714ECE52C00495B48;
+			productRefGroup = C34423D314ECE52C00495B48 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C34423D114ECE52C00495B48 /* MyLED */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C34423D014ECE52C00495B48 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C34423E114ECE52C00495B48 /* InfoPlist.strings in Resources */,
+				C34423ED14ECE52C00495B48 /* wintelViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C34423CE14ECE52C00495B48 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C34423E314ECE52C00495B48 /* main.m in Sources */,
+				C34423E714ECE52C00495B48 /* wintelAppDelegate.m in Sources */,
+				C34423EA14ECE52C00495B48 /* wintelViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C34423DF14ECE52C00495B48 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C34423E014ECE52C00495B48 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C34423EB14ECE52C00495B48 /* wintelViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C34423EC14ECE52C00495B48 /* en */,
+			);
+			name = wintelViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C34423EE14ECE52C00495B48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C34423EF14ECE52C00495B48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C34423F114ECE52C00495B48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MyLED/MyLED-Prefix.pch";
+				INFOPLIST_FILE = "MyLED/MyLED-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C34423F214ECE52C00495B48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MyLED/MyLED-Prefix.pch";
+				INFOPLIST_FILE = "MyLED/MyLED-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C34423CC14ECE52C00495B48 /* Build configuration list for PBXProject "MyLED" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C34423EE14ECE52C00495B48 /* Debug */,
+				C34423EF14ECE52C00495B48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C34423F014ECE52C00495B48 /* Build configuration list for PBXNativeTarget "MyLED" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C34423F114ECE52C00495B48 /* Debug */,
+				C34423F214ECE52C00495B48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C34423C914ECE52C00495B48 /* Project object */;
+}
