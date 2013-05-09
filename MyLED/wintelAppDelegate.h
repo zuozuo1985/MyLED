@@ -1,7 +1,7 @@
 //
 //  wintelAppDelegate.h
 //  MyLED
-//
+//  Wintelsui
 //  Created by  on 12-2-16.
 //  Copyright (c) 2012年 IDS. All rights reserved.
 //
@@ -12,8 +12,8 @@
 
 @interface wintelAppDelegate : UIResponder <UIApplicationDelegate>
 
-@property (strong, nonatomic) UIWindow *window;
+@property (retain, nonatomic) UIWindow *window;
 
-@property (strong, nonatomic) wintelViewController *viewController;
+@property (retain, nonatomic) wintelViewController *viewController;
 
 @end

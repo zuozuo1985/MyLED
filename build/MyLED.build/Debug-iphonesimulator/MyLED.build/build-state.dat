@@ -1,0 +1,322 @@
+TMyLED
+v7
+r0
+t359884897.816413
+cCheck dependencies
+cProcessInfoPlistFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist MyLED/MyLED-Info.plist
+cProcessPCH /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth MyLED/MyLED-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o /Users/qizuo/Downloads/MyLED/MyLED/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o /Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED normal i386
+cGenerateDSYMFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app.dSYM /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED
+cCopyStringsFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/InfoPlist.strings MyLED/en.lproj/InfoPlist.strings
+cCompileXIB /Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib
+cCpResource build/Debug-iphonesimulator/MyLED.app/LEDB.png MyLED/LEDB.png
+cCpResource build/Debug-iphonesimulator/MyLED.app/dy.png MyLED/dy.png
+cTouch /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/qizuo/Downloads/MyLED/MyLED/LEDB.png
+c000000004F3B55210000000000001CAA
+t1329288481
+s7338
+
+N/Users/qizuo/Downloads/MyLED/MyLED/MyLED-Prefix.pch
+c000000004F3CADAC0000000000000139
+t1329376684
+s313
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/qizuo/Downloads/MyLED/MyLED/dy.png
+c000000004F3B52FB0000000000006672
+t1329287931
+s26226
+
+N/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/InfoPlist.strings
+c000000004F3CADAC000000000000002D
+t1329376684
+s45
+
+N/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib
+c000000004F3E11CB00000000000C6362
+t1329467851
+s811874
+
+N/Users/qizuo/Downloads/MyLED/MyLED/main.m
+c000000004FC3200F000000000000021A
+t1338187791
+s538
+i<UIKit/UIKit.h>
+i"wintelAppDelegate.h"
+
+N/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h
+c000000004FC31D1D000000000000017D
+t1338187037
+s381
+i<UIKit/UIKit.h>
+
+N/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m
+c000000004FBF498F0000000000000969
+t1337936271
+s2409
+i"wintelAppDelegate.h"
+i"wintelViewController.h"
+
+N/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.h
+c000000004FC31E9900000000000004EF
+t1338187417
+s1263
+i<UIKit/UIKit.h>
+
+N/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m
+c000000004FC330E100000000000011FE
+t1338192097
+s4606
+i"wintelViewController.h"
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app
+t1338192097
+s272
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app.dSYM
+t1338192097
+s102
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist
+t1338187019
+s697
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/LEDB.png
+t1338187020
+s7338
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED
+t1338192097
+s32932
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/PkgInfo
+t1338187019
+s8
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/dy.png
+t1338187020
+s26226
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/InfoPlist.strings
+t1338187020
+s42
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/wintelViewController.nib
+t1338187020
+s4688
+
+N/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/MyLED.LinkFileList
+c000000004FC31CD90000000000000161
+t1338186969
+s353
+
+N/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o
+t1338187791
+s3268
+
+N/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o
+t1338187417
+s47464
+
+N/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o
+t1338192097
+s66840
+
+N/var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth
+t1338187019
+s2776604
+
+NMyLED/MyLED-Info.plist
+c000000004F3CADBC000000000000041F
+t1329376700
+s1055
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies359884897#359884897#0(0"0(0#1#0"8624151296#0"0#
+
+CCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o /Users/qizuo/Downloads/MyLED/MyLED/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359880591.529316
+e359880591.555140
+r1
+xCompileC
+xbuild/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o
+x/Users/qizuo/Downloads/MyLED/MyLED/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@49"Compile /Users/qizuo/Downloads/MyLED/MyLED/main.m359880591#359880591#0(0"0(0#0#41"/Users/qizuo/Downloads/MyLED/MyLED/main.m8620013952#1814"    cd /Users/qizuo/Downloads/MyLED    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-generated-files.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-own-target-headers.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-all-target-headers.hmap -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-project-headers.hmap -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -I/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/include -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources/i386 -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources -include /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch -c /Users/qizuo/Downloads/MyLED/MyLED/main.m -o /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o0#
+
+CCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359880217.673484
+e359880217.738136
+r1
+xCompileC
+xbuild/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o
+x/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@62"Compile /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m359880217#359880217#0(0"0(0#0#54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m8613990336#1840"    cd /Users/qizuo/Downloads/MyLED    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-generated-files.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-own-target-headers.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-all-target-headers.hmap -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-project-headers.hmap -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -I/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/include -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources/i386 -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources -include /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch -c /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m -o /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o0#
+
+CCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o /Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359884897.615245
+e359884897.707920
+r1
+xCompileC
+xbuild/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o
+x/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:85:9:{85:9-85:52}: warning: method '-addbutton:with:' not found (return type defaults to 'id')
+o         [self addbutton:oldpoint.x with:oldpoint.y];
+o         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:100:13:{100:13-100:56}: warning: method '-addbutton:with:' not found (return type defaults to 'id')
+o             [self addbutton:newPoint.x with:newPoint.y];
+o             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:128:5:{128:5-128:21}: warning: method '-RunButton' not found (return type defaults to 'id')
+o     [self RunButton];
+o     ^~~~~~~~~~~~~~~~
+o3 warnings generated.
+lSLF07#2@65"Compile /Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359884897#359884897#0(750"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:85:9:{85:9-85:52}: warning: method '-addbutton:with:' not found (return type defaults to 'id')         [self addbutton:oldpoint.x with:oldpoint.y];         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:100:13:{100:13-100:56}: warning: method '-addbutton:with:' not found (return type defaults to 'id')             [self addbutton:newPoint.x with:newPoint.y];             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:128:5:{128:5-128:21}: warning: method '-RunButton' not found (return type defaults to 'id')     [self RunButton];     ^~~~~~~~~~~~~~~~3 warnings generated.3(22@66"Method '-addbutton:with:' not found (return type defaults to 'id')359884897#0#153#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359884897#85#9#0#0#49"method * not found (return type defaults to 'id')1(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359884897#85#9#85#52#22@66"Method '-addbutton:with:' not found (return type defaults to 'id')359884897#260#158#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359884897#100#13#0#0#49"method * not found (return type defaults to 'id')1(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359884897#100#13#100#56#22@60"Method '-RunButton' not found (return type defaults to 'id')359884897#533#150#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359884897#128#5#0#0#49"method * not found (return type defaults to 'id')1(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359884897#128#5#128#21#0#0#57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m8623662048#1846"    cd /Users/qizuo/Downloads/MyLED    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-generated-files.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-own-target-headers.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-all-target-headers.hmap -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-project-headers.hmap -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -I/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/include -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources/i386 -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources -include /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch -c /Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m -o /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o0#
+
+CCompileXIB /Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib
+s359879820.111841
+e359879820.565520
+r1
+xCompileXIB
+x/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:10: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'MyPlayOrStopButtonClicked:' selector of 'File's Owner', but 'MyPlayOrStopButtonClicked:' is no longer defined on 'wintelViewController'.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:21: warning: The 'Value Changed' event of 'Horizontal Slider' is connected to the 'Suduchange:' selector of 'File's Owner', but 'Suduchange:' is no longer defined on 'wintelViewController'.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'slidervalue' outlet of 'File's Owner' is connected to 'Horizontal Slider' but 'slidervalue' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyMiddleButton' outlet of 'File's Owner' is connected to 'Custom Button' but 'MyMiddleButton' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyPlayOrStopButton' outlet of 'File's Owner' is connected to 'Rounded Rect Button' but 'MyPlayOrStopButton' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'myimageview' outlet of 'File's Owner' is connected to 'Image View (LEDB.png)' but 'myimageview' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyViewController' outlet of 'File's Owner' is connected to 'View' but 'MyViewController' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:9: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (CLEAR)' is connected to the 'myClearButtonClicked:' selector of 'File's Owner', but 'myClearButtonClicked:' is no longer defined on 'wintelViewController'.
+lSLF07#2@50"CompileXIB MyLED/en.lproj/wintelViewController.xib359879820#359879820#0(2225"/* com.apple.ibtool.document.warnings *//Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:10: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'MyPlayOrStopButtonClicked:' selector of 'File's Owner', but 'MyPlayOrStopButtonClicked:' is no longer defined on 'wintelViewController'./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:21: warning: The 'Value Changed' event of 'Horizontal Slider' is connected to the 'Suduchange:' selector of 'File's Owner', but 'Suduchange:' is no longer defined on 'wintelViewController'./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'slidervalue' outlet of 'File's Owner' is connected to 'Horizontal Slider' but 'slidervalue' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyMiddleButton' outlet of 'File's Owner' is connected to 'Custom Button' but 'MyMiddleButton' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyPlayOrStopButton' outlet of 'File's Owner' is connected to 'Rounded Rect Button' but 'MyPlayOrStopButton' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'myimageview' outlet of 'File's Owner' is connected to 'Image View (LEDB.png)' but 'myimageview' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyViewController' outlet of 'File's Owner' is connected to 'View' but 'MyViewController' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:9: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (CLEAR)' is connected to the 'myClearButtonClicked:' selector of 'File's Owner', but 'myClearButtonClicked:' is no longer defined on 'wintelViewController'.9(22@210"The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'MyPlayOrStopButtonClicked:' selector of 'File's Owner', but 'MyPlayOrStopButtonClicked:' is no longer defined on 'wintelViewController'.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#10#0#10#0#0"0(22@176"The 'Value Changed' event of 'Horizontal Slider' is connected to the 'Suduchange:' selector of 'File's Owner', but 'Suduchange:' is no longer defined on 'wintelViewController'.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#21#0#21#0#0"0(22@142"The 'slidervalue' outlet of 'File's Owner' is connected to 'Horizontal Slider' but 'slidervalue' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@144"The 'MyMiddleButton' outlet of 'File's Owner' is connected to 'Custom Button' but 'MyMiddleButton' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@158"The 'MyPlayOrStopButton' outlet of 'File's Owner' is connected to 'Rounded Rect Button' but 'MyPlayOrStopButton' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@146"The 'myimageview' outlet of 'File's Owner' is connected to 'Image View (LEDB.png)' but 'myimageview' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@139"The 'MyViewController' outlet of 'File's Owner' is connected to 'View' but 'MyViewController' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@115"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@208"The 'Touch Up Inside' event of 'Rounded Rect Button (CLEAR)' is connected to the 'myClearButtonClicked:' selector of 'File's Owner', but 'myClearButtonClicked:' is no longer defined on 'wintelViewController'.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#9#0#9#0#0"0(0#0#68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib8611909632#582"    cd /Users/qizuo/Downloads/MyLED    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/wintelViewController.nib /Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/InfoPlist.strings MyLED/en.lproj/InfoPlist.strings
+s359879820.111177
+e359879820.429982
+r1
+xCopyStringsFile
+x/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/InfoPlist.strings
+xMyLED/en.lproj/InfoPlist.strings
+lSLF07#2@37"Copy MyLED/en.lproj/InfoPlist.strings359879820#359879820#0(0"0(0#0#61"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/InfoPlist.strings8612101664#467"    cd /Users/qizuo/Downloads/MyLED    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary MyLED/en.lproj/InfoPlist.strings --outdir /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/MyLED.app/LEDB.png MyLED/LEDB.png
+s359879820.112342
+e359879820.151842
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyLED.app/LEDB.png
+xMyLED/LEDB.png
+lSLF07#2@19"Copy MyLED/LEDB.png359879820#359879820#0(0"0(0#0#43"/Users/qizuo/Downloads/MyLED/MyLED/LEDB.png8611828160#440"    cd /Users/qizuo/Downloads/MyLED    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/qizuo/Downloads/MyLED/MyLED/LEDB.png /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app0#
+
+CCpResource build/Debug-iphonesimulator/MyLED.app/dy.png MyLED/dy.png
+s359879820.112939
+e359879820.151578
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyLED.app/dy.png
+xMyLED/dy.png
+lSLF07#2@17"Copy MyLED/dy.png359879820#359879820#0(0"0(0#0#41"/Users/qizuo/Downloads/MyLED/MyLED/dy.png8611810912#438"    cd /Users/qizuo/Downloads/MyLED    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/qizuo/Downloads/MyLED/MyLED/dy.png /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app0#
+
+CGenerateDSYMFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app.dSYM /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED
+s359884897.799828
+e359884897.813394
+r1
+xGenerateDSYMFile
+x/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app.dSYM
+x/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/MyLED.app.dSYM build/Debug-iphonesimulator/MyLED.app/MyLED359884897#359884897#0(0"0(0#0#72"/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED8620730400#347"    cd /Users/qizuo/Downloads/MyLED    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED -o /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app.dSYM0#
+
+CLd /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED normal i386
+s359884897.708017
+e359884897.799756
+r1
+xLd
+x/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED
+xnormal
+xi386
+lSLF07#2@77"Link /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED359884897#359884897#0(0"0(0#0#0"8622951008#847"    cd /Users/qizuo/Downloads/MyLED    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -filelist /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/MyLED.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED0#
+
+CProcessInfoPlistFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist MyLED/MyLED-Info.plist
+s359879819.461464
+e359879819.501370
+r1
+xProcessInfoPlistFile
+x/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist
+xMyLED/MyLED-Info.plist
+lSLF07#2@30"Process MyLED/MyLED-Info.plist359879819#359879819#0(0"0(0#0#51"/Users/qizuo/Downloads/MyLED/MyLED/MyLED-Info.plist12948140990988364#449"    cd /Users/qizuo/Downloads/MyLED    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyLED/MyLED-Info.plist -genpkginfo /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist0#
+
+CProcessPCH /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth MyLED/MyLED-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359879819.501535
+e359879819.883970
+r1
+xProcessPCH
+x/var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth
+xMyLED/MyLED-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@33"Precompile MyLED/MyLED-Prefix.pch359879819#359879819#0(0"0(0#0#51"/Users/qizuo/Downloads/MyLED/MyLED/MyLED-Prefix.pch8610225056#1718"    cd /Users/qizuo/Downloads/MyLED    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-generated-files.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-own-target-headers.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-all-target-headers.hmap -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-project-headers.hmap -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -I/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/include -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources/i386 -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources -c /Users/qizuo/Downloads/MyLED/MyLED/MyLED-Prefix.pch -o /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth0#
+
+CTouch /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app
+s359884897.813882
+e359884897.816360
+r1
+xTouch
+x/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app
+lSLF07#2@72"Touch /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app359884897#359884897#0(0"0(0#0#0"8610623136#256"    cd /Users/qizuo/Downloads/MyLED    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app0#
+

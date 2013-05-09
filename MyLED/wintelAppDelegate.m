@@ -1,7 +1,7 @@
 //
 //  wintelAppDelegate.m
 //  MyLED
-//
+//  Wintelsui
 //  Created by  on 12-2-16.
 //  Copyright (c) 2012年 IDS. All rights reserved.
 //

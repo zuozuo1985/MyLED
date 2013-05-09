@@ -1,0 +1,233 @@
+// !$*UTF8*$!
+{
+	9F0A8FA4157354840041FF17 /* MyLED */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyLED;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9F0A8FB2157354A60041FF17 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9F0A8FB3157354A60041FF17 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9F0A901815735A420041FF17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C34423E214ECE52C00495B48 /* main.m */;
+		name = "main.m: 25";
+		rLen = 0;
+		rLoc = 536;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 0;
+	};
+	9F0A901915735A420041FF17 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C34423DE14ECE52C00495B48 /* MyLED-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/qizuo/Downloads/MyLED/MyLED/MyLED-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	9F0A901A15735A420041FF17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C34423E014ECE52C00495B48 /* en */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	9F0A901B15735A420041FF17 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C34423F514ECE7B900495B48 /* dy.png */;
+	};
+	9F0A901C15735A420041FF17 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C34423F314ECE71400495B48 /* LEDB.png */;
+	};
+	9F0A901D15735A420041FF17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C34423E514ECE52C00495B48 /* wintelAppDelegate.h */;
+		name = "wintelAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	9F0A901E15735A420041FF17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C34423E614ECE52C00495B48 /* wintelAppDelegate.m */;
+		name = "wintelAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1853;
+		vrLoc = 419;
+	};
+	9F0A901F15735A420041FF17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C34423E814ECE52C00495B48 /* wintelViewController.h */;
+		name = "wintelViewController.h: 30";
+		rLen = 0;
+		rLoc = 680;
+		rType = 0;
+		vrLen = 1002;
+		vrLoc = 259;
+	};
+	9F0A916C1574AC6D0041FF17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C34423E914ECE52C00495B48 /* wintelViewController.m */;
+		name = "wintelViewController.m: 128";
+		rLen = 0;
+		rLoc = 3599;
+		rType = 0;
+		vrLen = 927;
+		vrLoc = 3261;
+	};
+	9F0A916D1574AC6D0041FF17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C34423E914ECE52C00495B48 /* wintelViewController.m */;
+		name = "wintelViewController.m: 128";
+		rLen = 0;
+		rLoc = 3599;
+		rType = 0;
+		vrLen = 913;
+		vrLoc = 1314;
+	};
+	C34423C914ECE52C00495B48 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9F0A8FA4157354840041FF17 /* MyLED */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = C34423D114ECE52C00495B48 /* MyLED */;
+		codeSenseManager = 9F0A8FB3157354A60041FF17 /* Code sense */;
+		executables = (
+			9F0A8FA4157354840041FF17 /* MyLED */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					634,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 359879812;
+			PBXWorkspaceStateSaveDate = 359879812;
+		};
+		perUserProjectItems = {
+			9F0A901815735A420041FF17 /* PBXTextBookmark */ = 9F0A901815735A420041FF17 /* PBXTextBookmark */;
+			9F0A901915735A420041FF17 /* PlistBookmark */ = 9F0A901915735A420041FF17 /* PlistBookmark */;
+			9F0A901A15735A420041FF17 /* PBXTextBookmark */ = 9F0A901A15735A420041FF17 /* PBXTextBookmark */;
+			9F0A901B15735A420041FF17 /* PBXBookmark */ = 9F0A901B15735A420041FF17 /* PBXBookmark */;
+			9F0A901C15735A420041FF17 /* PBXBookmark */ = 9F0A901C15735A420041FF17 /* PBXBookmark */;
+			9F0A901D15735A420041FF17 /* PBXTextBookmark */ = 9F0A901D15735A420041FF17 /* PBXTextBookmark */;
+			9F0A901E15735A420041FF17 /* PBXTextBookmark */ = 9F0A901E15735A420041FF17 /* PBXTextBookmark */;
+			9F0A901F15735A420041FF17 /* PBXTextBookmark */ = 9F0A901F15735A420041FF17 /* PBXTextBookmark */;
+			9F0A916C1574AC6D0041FF17 /* PBXTextBookmark */ = 9F0A916C1574AC6D0041FF17 /* PBXTextBookmark */;
+			9F0A916D1574AC6D0041FF17 /* PBXTextBookmark */ = 9F0A916D1574AC6D0041FF17 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9F0A8FB2157354A60041FF17 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C34423D114ECE52C00495B48 /* MyLED */ = {
+		activeExec = 0;
+		executables = (
+			9F0A8FA4157354840041FF17 /* MyLED */,
+		);
+	};
+	C34423E014ECE52C00495B48 /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 408}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	C34423E214ECE52C00495B48 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 408}}";
+			sepNavSelRange = "{536, 0}";
+			sepNavVisRange = "{0, 536}";
+		};
+	};
+	C34423E514ECE52C00495B48 /* wintelAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 408}}";
+			sepNavSelRange = "{273, 0}";
+			sepNavVisRange = "{0, 379}";
+		};
+	};
+	C34423E614ECE52C00495B48 /* wintelAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	C34423E814ECE52C00495B48 /* wintelViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 611}}";
+			sepNavSelRange = "{680, 0}";
+			sepNavVisRange = "{259, 1002}";
+		};
+	};
+	C34423E914ECE52C00495B48 /* wintelViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 2210}}";
+			sepNavSelRange = "{3599, 0}";
+			sepNavVisRange = "{1314, 913}";
+		};
+	};
+}

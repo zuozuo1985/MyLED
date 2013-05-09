@@ -1,0 +1,407 @@
+TMyLED
+v7
+r0
+t359879820.565610
+cCheck dependencies
+cProcessInfoPlistFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist MyLED/MyLED-Info.plist
+cProcessPCH /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth MyLED/MyLED-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o /Users/qizuo/Downloads/MyLED/MyLED/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o /Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCopyStringsFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/InfoPlist.strings MyLED/en.lproj/InfoPlist.strings
+cCompileXIB /Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib
+cCpResource build/Debug-iphonesimulator/MyLED.app/LEDB.png MyLED/LEDB.png
+cCpResource build/Debug-iphonesimulator/MyLED.app/dy.png MyLED/dy.png
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/qizuo/Downloads/MyLED/MyLED/LEDB.png
+c000000004F3B55210000000000001CAA
+t1329288481
+s7338
+
+N/Users/qizuo/Downloads/MyLED/MyLED/MyLED-Prefix.pch
+c000000004F3CADAC0000000000000139
+t1329376684
+s313
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/qizuo/Downloads/MyLED/MyLED/dy.png
+c000000004F3B52FB0000000000006672
+t1329287931
+s26226
+
+N/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/InfoPlist.strings
+c000000004F3CADAC000000000000002D
+t1329376684
+s45
+
+N/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib
+c000000004F3E11CB00000000000C6362
+t1329467851
+s811874
+
+N/Users/qizuo/Downloads/MyLED/MyLED/main.m
+c000000004F3CADAC000000000000014A
+t1329376684
+s330
+i<UIKit/UIKit.h>
+i"wintelAppDelegate.h"
+
+N/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h
+c000000004FBF498F000000000000017D
+t1337936271
+s381
+i<UIKit/UIKit.h>
+
+N/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m
+c000000004FBF498F0000000000000969
+t1337936271
+s2409
+i"wintelAppDelegate.h"
+i"wintelViewController.h"
+
+N/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.h
+c000000004FBF498E00000000000000DC
+t1337936270
+s220
+i<UIKit/UIKit.h>
+
+N/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m
+c000000004FBF498F00000000000011F9
+t1337936271
+s4601
+i"wintelViewController.h"
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app
+t1338186969
+s68
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app.dSYM
+t2
+s0
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist
+t1338187019
+s697
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/LEDB.png
+t1338187020
+s7338
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED
+t2
+s0
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/PkgInfo
+t1338187019
+s8
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/dy.png
+t1338187020
+s26226
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/InfoPlist.strings
+t1338187020
+s42
+
+N/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/wintelViewController.nib
+t1338187020
+s4688
+
+N/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/MyLED.LinkFileList
+c000000004FC31CD90000000000000161
+t1338186969
+s353
+
+N/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o
+t2
+s0
+
+N/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o
+t2
+s0
+
+N/var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth
+t1338187019
+s2776604
+
+NMyLED/MyLED-Info.plist
+c000000004F3CADBC000000000000041F
+t1329376700
+s1055
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies359879819#359879819#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o /Users/qizuo/Downloads/MyLED/MyLED/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359879819.884053
+e359879820.083142
+r0
+xCompileC
+xbuild/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o
+x/Users/qizuo/Downloads/MyLED/MyLED/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/qizuo/Downloads/MyLED/MyLED/main.m:11:
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UIWindow *window;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UIWindow *window;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) wintelViewController *viewController;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) wintelViewController *viewController;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/qizuo/Downloads/MyLED/MyLED/main.m:15:5: error: unexpected '@' in program
+o     @autoreleasepool {
+o     ^
+o4 warnings and 3 errors generated.
+lSLF07#2@49"Compile /Users/qizuo/Downloads/MyLED/MyLED/main.m359879819#359879820#0(1271"In file included from /Users/qizuo/Downloads/MyLED/MyLED/main.m:11:/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UIWindow *window;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UIWindow *window; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:12: error: unknown property attribute 'strong' @property (strong, nonatomic) wintelViewController *viewController;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) wintelViewController *viewController; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/qizuo/Downloads/MyLED/MyLED/main.m:15:5: error: unexpected '@' in program     @autoreleasepool {     ^4 warnings and 3 errors generated.7(4@35"Unknown property attribute 'strong'359879820#68#105#2(7@67"In file included from /Users/qizuo/Downloads/MyLED/MyLED/main.m:11:359879820#0#68#0(6@41"/Users/qizuo/Downloads/MyLED/MyLED/main.m351069484#11#0#11#0#0"0(13@93"Unknown property attribute 'strong' in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#12#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#236#148#2(7@67"In file included from /Users/qizuo/Downloads/MyLED/MyLED/main.m:11:359879820#18446744073709551615#0#0(6@41"/Users/qizuo/Downloads/MyLED/MyLED/main.m351069484#11#0#11#0#0"0(13@135"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#1#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#436#140#2(7@67"In file included from /Users/qizuo/Downloads/MyLED/MyLED/main.m:11:359879820#18446744073709551615#0#0(6@41"/Users/qizuo/Downloads/MyLED/MyLED/main.m351069484#11#0#11#0#0"0(13@127"Default property attribute 'assign' not appropriate for non-gc object in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#1#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'359879820#576#105#2(7@67"In file included from /Users/qizuo/Downloads/MyLED/MyLED/main.m:11:359879820#18446744073709551615#0#0(6@41"/Users/qizuo/Downloads/MyLED/MyLED/main.m351069484#11#0#11#0#0"0(13@93"Unknown property attribute 'strong' in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#12#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#764#148#2(7@67"In file included from /Users/qizuo/Downloads/MyLED/MyLED/main.m:11:359879820#18446744073709551615#0#0(6@41"/Users/qizuo/Downloads/MyLED/MyLED/main.m351069484#11#0#11#0#0"0(13@135"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#1#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#984#140#2(7@67"In file included from /Users/qizuo/Downloads/MyLED/MyLED/main.m:11:359879820#18446744073709551615#0#0(6@41"/Users/qizuo/Downloads/MyLED/MyLED/main.m351069484#11#0#11#0#0"0(13@127"Default property attribute 'assign' not appropriate for non-gc object in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#1#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@25"Unexpected '@' in program359879820#1124#81#0(6@41"/Users/qizuo/Downloads/MyLED/MyLED/main.m351069484#15#5#0#0#25"unexpected '@' in program0(0#0#41"/Users/qizuo/Downloads/MyLED/MyLED/main.m8611141664#1814"    cd /Users/qizuo/Downloads/MyLED    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-generated-files.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-own-target-headers.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-all-target-headers.hmap -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-project-headers.hmap -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -I/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/include -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources/i386 -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources -include /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch -c /Users/qizuo/Downloads/MyLED/MyLED/main.m -o /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/main.o1#
+
+CCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359879819.884791
+e359879820.083362
+r0
+xCompileC
+xbuild/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o
+x/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m:9:
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UIWindow *window;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UIWindow *window;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) wintelViewController *viewController;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) wintelViewController *viewController;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o4 warnings and 2 errors generated.
+lSLF07#2@62"Compile /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m359879819#359879820#0(1171"In file included from /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m:9:/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UIWindow *window;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UIWindow *window; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:15:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:12: error: unknown property attribute 'strong' @property (strong, nonatomic) wintelViewController *viewController;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) wintelViewController *viewController; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h:17:1: warning: default property attribute 'assign' not appropriate for non-gc object4 warnings and 2 errors generated.6(4@35"Unknown property attribute 'strong'359879820#80#105#2(7@79"In file included from /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m:9:359879820#0#80#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m359629071#9#0#9#0#0"0(13@93"Unknown property attribute 'strong' in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#12#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#248#148#2(7@79"In file included from /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m:9:359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m359629071#9#0#9#0#0"0(13@135"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#1#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#448#140#2(7@79"In file included from /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m:9:359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m359629071#9#0#9#0#0"0(13@127"Default property attribute 'assign' not appropriate for non-gc object in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#1#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#15#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'359879820#588#105#2(7@79"In file included from /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m:9:359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m359629071#9#0#9#0#0"0(13@93"Unknown property attribute 'strong' in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#12#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#776#148#2(7@79"In file included from /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m:9:359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m359629071#9#0#9#0#0"0(13@135"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#1#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#996#140#2(7@79"In file included from /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m:9:359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m359629071#9#0#9#0#0"0(13@127"Default property attribute 'assign' not appropriate for non-gc object in /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359879820#18446744073709551615#0#0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#1#0#0#0"0(6@54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.h359629071#17#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(0#0#54"/Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m8610849408#1840"    cd /Users/qizuo/Downloads/MyLED    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-generated-files.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-own-target-headers.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-all-target-headers.hmap -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-project-headers.hmap -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -I/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/include -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources/i386 -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources -include /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch -c /Users/qizuo/Downloads/MyLED/MyLED/wintelAppDelegate.m -o /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelAppDelegate.o1#
+
+CCompileC build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o /Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359879819.885405
+e359879820.111095
+r0
+xCompileC
+xbuild/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o
+x/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:13:13: error: ivars may not be placed in class extension
+o     CGPoint oldpoint;
+o             ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:14:13: error: ivars may not be placed in class extension
+o     CGPoint newPoint;
+o             ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:15:21: error: ivars may not be placed in class extension
+o     NSMutableArray *array;
+o                     ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:16:15: error: ivars may not be placed in class extension
+o     NSInteger number;
+o               ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:17:10: error: ivars may not be placed in class extension
+o     BOOL ISPLAY;
+o          ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:18:10: error: ivars may not be placed in class extension
+o     BOOL ISPLAYTWO;
+o          ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:19:11: error: ivars may not be placed in class extension
+o     float du;
+o           ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:20:11: error: ivars may not be placed in class extension
+o     float sudu;
+o           ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:23:12: error: unknown property attribute 'weak'
+o @property (weak, nonatomic) IBOutlet UIImageView *myimageview;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:23:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (weak, nonatomic) IBOutlet UIImageView *myimageview;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:23:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:24:12: error: unknown property attribute 'weak'
+o @property (weak, nonatomic) IBOutlet UIView *MyViewController;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:24:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (weak, nonatomic) IBOutlet UIView *MyViewController;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:24:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:25:12: error: unknown property attribute 'weak'
+o @property (weak, nonatomic) IBOutlet UIButton *MyPlayOrStopButton;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:25:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (weak, nonatomic) IBOutlet UIButton *MyPlayOrStopButton;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:25:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:26:12: error: unknown property attribute 'weak'
+o @property (weak, nonatomic) IBOutlet UIButton *MyMiddleButton;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:26:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (weak, nonatomic) IBOutlet UIButton *MyMiddleButton;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:26:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:32:12: error: unknown property attribute 'weak'
+o @property (weak, nonatomic) IBOutlet UISlider *slidervalue;
+o            ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:32:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (weak, nonatomic) IBOutlet UISlider *slidervalue;
+o ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:32:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:56:5: error: use of undeclared identifier 'ISPLAYTWO'
+o     ISPLAYTWO = NO;
+o     ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:57:5: error: use of undeclared identifier 'sudu'
+o     sudu = slidervalue.value;
+o     ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:85:9:{85:9-85:52}: warning: method '-addbutton:with:' not found (return type defaults to 'id')
+o         [self addbutton:oldpoint.x with:oldpoint.y];
+o         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:100:13:{100:13-100:56}: warning: method '-addbutton:with:' not found (return type defaults to 'id')
+o             [self addbutton:newPoint.x with:newPoint.y];
+o             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:128:5:{128:5-128:21}: warning: method '-RunButton' not found (return type defaults to 'id')
+o     [self RunButton];
+o     ^~~~~~~~~~~~~~~~
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:132:33: error: use of undeclared identifier 'sudu'
+o     [UIView animateWithDuration:sudu delay:0 options:UIViewAnimationOptionAllowUserInteraction animations:^{
+o                                 ^
+o/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:167:5: error: use of undeclared identifier 'sudu'
+o     sudu = slidervalue.value;
+o     ^
+o13 warnings and 17 errors generated.
+lSLF07#2@65"Compile /Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359879819#359879820#0(5385"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:13:13: error: ivars may not be placed in class extension     CGPoint oldpoint;             ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:14:13: error: ivars may not be placed in class extension     CGPoint newPoint;             ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:15:21: error: ivars may not be placed in class extension     NSMutableArray *array;                     ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:16:15: error: ivars may not be placed in class extension     NSInteger number;               ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:17:10: error: ivars may not be placed in class extension     BOOL ISPLAY;          ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:18:10: error: ivars may not be placed in class extension     BOOL ISPLAYTWO;          ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:19:11: error: ivars may not be placed in class extension     float du;           ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:20:11: error: ivars may not be placed in class extension     float sudu;           ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:23:12: error: unknown property attribute 'weak' @property (weak, nonatomic) IBOutlet UIImageView *myimageview;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:23:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (weak, nonatomic) IBOutlet UIImageView *myimageview; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:23:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:24:12: error: unknown property attribute 'weak' @property (weak, nonatomic) IBOutlet UIView *MyViewController;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:24:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (weak, nonatomic) IBOutlet UIView *MyViewController; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:24:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:25:12: error: unknown property attribute 'weak' @property (weak, nonatomic) IBOutlet UIButton *MyPlayOrStopButton;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:25:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (weak, nonatomic) IBOutlet UIButton *MyPlayOrStopButton; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:25:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:26:12: error: unknown property attribute 'weak' @property (weak, nonatomic) IBOutlet UIButton *MyMiddleButton;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:26:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (weak, nonatomic) IBOutlet UIButton *MyMiddleButton; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:26:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:32:12: error: unknown property attribute 'weak' @property (weak, nonatomic) IBOutlet UISlider *slidervalue;            ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:32:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (weak, nonatomic) IBOutlet UISlider *slidervalue; ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:32:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:56:5: error: use of undeclared identifier 'ISPLAYTWO'     ISPLAYTWO = NO;     ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:57:5: error: use of undeclared identifier 'sudu'     sudu = slidervalue.value;     ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:85:9:{85:9-85:52}: warning: method '-addbutton:with:' not found (return type defaults to 'id')         [self addbutton:oldpoint.x with:oldpoint.y];         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:100:13:{100:13-100:56}: warning: method '-addbutton:with:' not found (return type defaults to 'id')             [self addbutton:newPoint.x with:newPoint.y];             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:128:5:{128:5-128:21}: warning: method '-RunButton' not found (return type defaults to 'id')     [self RunButton];     ^~~~~~~~~~~~~~~~/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:132:33: error: use of undeclared identifier 'sudu'     [UIView animateWithDuration:sudu delay:0 options:UIViewAnimationOptionAllowUserInteraction animations:^{                                 ^/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m:167:5: error: use of undeclared identifier 'sudu'     sudu = slidervalue.value;     ^13 warnings and 17 errors generated.30(4@42"Ivars may not be placed in class extension359879820#0#115#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#13#13#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension359879820#153#115#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#14#13#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension359879820#306#115#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#15#21#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension359879820#472#115#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#16#15#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension359879820#627#115#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#17#10#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension359879820#772#115#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#18#10#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension359879820#920#115#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#19#11#0#0#28"ivars may not be placed in *0(4@42"Ivars may not be placed in class extension359879820#1063#115#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#20#11#0#0#28"ivars may not be placed in *0(4@33"Unknown property attribute 'weak'359879820#1208#106#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#23#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#1392#151#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#23#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#1610#143#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#23#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@33"Unknown property attribute 'weak'359879820#1753#106#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#24#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#1937#151#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#24#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#2155#143#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#24#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@33"Unknown property attribute 'weak'359879820#2298#106#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#25#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#2486#151#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#25#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#2708#143#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#25#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@33"Unknown property attribute 'weak'359879820#2851#106#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#26#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#3035#151#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#26#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#3253#143#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#26#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@33"Unknown property attribute 'weak'359879820#3396#106#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#32#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed359879820#3577#151#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#32#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object359879820#3792#143#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#32#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@40"Use of undeclared identifier 'ISPLAYTWO'359879820#3935#112#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#56#5#0#0#30"use of undeclared identifier *0(4@35"Use of undeclared identifier 'sudu'359879820#4075#107#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#57#5#0#0#30"use of undeclared identifier *0(22@66"Method '-addbutton:with:' not found (return type defaults to 'id')359879820#4220#153#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#85#9#0#0#49"method * not found (return type defaults to 'id')1(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#85#9#85#52#22@66"Method '-addbutton:with:' not found (return type defaults to 'id')359879820#4480#158#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#100#13#0#0#49"method * not found (return type defaults to 'id')1(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#100#13#100#56#22@60"Method '-RunButton' not found (return type defaults to 'id')359879820#4753#150#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#128#5#0#0#49"method * not found (return type defaults to 'id')1(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#128#5#128#21#4@35"Use of undeclared identifier 'sudu'359879820#4948#109#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#132#33#0#0#30"use of undeclared identifier *0(4@35"Use of undeclared identifier 'sudu'359879820#5202#108#0(6@57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m359629071#167#5#0#0#30"use of undeclared identifier *0(0#0#57"/Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m8610426656#1846"    cd /Users/qizuo/Downloads/MyLED    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-generated-files.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-own-target-headers.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-all-target-headers.hmap -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-project-headers.hmap -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -I/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/include -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources/i386 -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources -include /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch -c /Users/qizuo/Downloads/MyLED/MyLED/wintelViewController.m -o /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/Objects-normal/i386/wintelViewController.o1#
+
+CCompileXIB /Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib
+s359879820.111841
+e359879820.565520
+r1
+xCompileXIB
+x/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:10: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'MyPlayOrStopButtonClicked:' selector of 'File's Owner', but 'MyPlayOrStopButtonClicked:' is no longer defined on 'wintelViewController'.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:21: warning: The 'Value Changed' event of 'Horizontal Slider' is connected to the 'Suduchange:' selector of 'File's Owner', but 'Suduchange:' is no longer defined on 'wintelViewController'.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'slidervalue' outlet of 'File's Owner' is connected to 'Horizontal Slider' but 'slidervalue' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyMiddleButton' outlet of 'File's Owner' is connected to 'Custom Button' but 'MyMiddleButton' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyPlayOrStopButton' outlet of 'File's Owner' is connected to 'Rounded Rect Button' but 'MyPlayOrStopButton' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'myimageview' outlet of 'File's Owner' is connected to 'Image View (LEDB.png)' but 'myimageview' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyViewController' outlet of 'File's Owner' is connected to 'View' but 'MyViewController' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on wintelViewController.
+o/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:9: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (CLEAR)' is connected to the 'myClearButtonClicked:' selector of 'File's Owner', but 'myClearButtonClicked:' is no longer defined on 'wintelViewController'.
+lSLF07#2@50"CompileXIB MyLED/en.lproj/wintelViewController.xib359879820#359879820#0(2225"/* com.apple.ibtool.document.warnings *//Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:10: warning: The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'MyPlayOrStopButtonClicked:' selector of 'File's Owner', but 'MyPlayOrStopButtonClicked:' is no longer defined on 'wintelViewController'./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:21: warning: The 'Value Changed' event of 'Horizontal Slider' is connected to the 'Suduchange:' selector of 'File's Owner', but 'Suduchange:' is no longer defined on 'wintelViewController'./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'slidervalue' outlet of 'File's Owner' is connected to 'Horizontal Slider' but 'slidervalue' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyMiddleButton' outlet of 'File's Owner' is connected to 'Custom Button' but 'MyMiddleButton' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyPlayOrStopButton' outlet of 'File's Owner' is connected to 'Rounded Rect Button' but 'MyPlayOrStopButton' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'myimageview' outlet of 'File's Owner' is connected to 'Image View (LEDB.png)' but 'myimageview' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'MyViewController' outlet of 'File's Owner' is connected to 'View' but 'MyViewController' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on wintelViewController./Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib:9: warning: The 'Touch Up Inside' event of 'Rounded Rect Button (CLEAR)' is connected to the 'myClearButtonClicked:' selector of 'File's Owner', but 'myClearButtonClicked:' is no longer defined on 'wintelViewController'.9(22@210"The 'Touch Up Inside' event of 'Rounded Rect Button' is connected to the 'MyPlayOrStopButtonClicked:' selector of 'File's Owner', but 'MyPlayOrStopButtonClicked:' is no longer defined on 'wintelViewController'.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#10#0#10#0#0"0(22@176"The 'Value Changed' event of 'Horizontal Slider' is connected to the 'Suduchange:' selector of 'File's Owner', but 'Suduchange:' is no longer defined on 'wintelViewController'.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#21#0#21#0#0"0(22@142"The 'slidervalue' outlet of 'File's Owner' is connected to 'Horizontal Slider' but 'slidervalue' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@144"The 'MyMiddleButton' outlet of 'File's Owner' is connected to 'Custom Button' but 'MyMiddleButton' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@158"The 'MyPlayOrStopButton' outlet of 'File's Owner' is connected to 'Rounded Rect Button' but 'MyPlayOrStopButton' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@146"The 'myimageview' outlet of 'File's Owner' is connected to 'Image View (LEDB.png)' but 'myimageview' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@139"The 'MyViewController' outlet of 'File's Owner' is connected to 'View' but 'MyViewController' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@115"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on wintelViewController.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#18446744073709551615#0#18446744073709551615#0#0"0(22@208"The 'Touch Up Inside' event of 'Rounded Rect Button (CLEAR)' is connected to the 'myClearButtonClicked:' selector of 'File's Owner', but 'myClearButtonClicked:' is no longer defined on 'wintelViewController'.359879820#18446744073709551615#0#0(6@68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib351160651#9#0#9#0#0"0(0#0#68"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib8611909632#582"    cd /Users/qizuo/Downloads/MyLED    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/wintelViewController.nib /Users/qizuo/Downloads/MyLED/MyLED/en.lproj/wintelViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/InfoPlist.strings MyLED/en.lproj/InfoPlist.strings
+s359879820.111177
+e359879820.429982
+r1
+xCopyStringsFile
+x/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj/InfoPlist.strings
+xMyLED/en.lproj/InfoPlist.strings
+lSLF07#2@37"Copy MyLED/en.lproj/InfoPlist.strings359879820#359879820#0(0"0(0#0#61"/Users/qizuo/Downloads/MyLED/MyLED/en.lproj/InfoPlist.strings8612101664#467"    cd /Users/qizuo/Downloads/MyLED    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary MyLED/en.lproj/InfoPlist.strings --outdir /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/MyLED.app/LEDB.png MyLED/LEDB.png
+s359879820.112342
+e359879820.151842
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyLED.app/LEDB.png
+xMyLED/LEDB.png
+lSLF07#2@19"Copy MyLED/LEDB.png359879820#359879820#0(0"0(0#0#43"/Users/qizuo/Downloads/MyLED/MyLED/LEDB.png8611828160#440"    cd /Users/qizuo/Downloads/MyLED    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/qizuo/Downloads/MyLED/MyLED/LEDB.png /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app0#
+
+CCpResource build/Debug-iphonesimulator/MyLED.app/dy.png MyLED/dy.png
+s359879820.112939
+e359879820.151578
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyLED.app/dy.png
+xMyLED/dy.png
+lSLF07#2@17"Copy MyLED/dy.png359879820#359879820#0(0"0(0#0#41"/Users/qizuo/Downloads/MyLED/MyLED/dy.png8611810912#438"    cd /Users/qizuo/Downloads/MyLED    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/qizuo/Downloads/MyLED/MyLED/dy.png /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app0#
+
+CGenerateDSYMFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app.dSYM /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED
+r0
+
+CLd /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/MyLED normal i386
+r0
+
+CProcessInfoPlistFile /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist MyLED/MyLED-Info.plist
+s359879819.461464
+e359879819.501370
+r1
+xProcessInfoPlistFile
+x/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist
+xMyLED/MyLED-Info.plist
+lSLF07#2@30"Process MyLED/MyLED-Info.plist359879819#359879819#0(0"0(0#0#51"/Users/qizuo/Downloads/MyLED/MyLED/MyLED-Info.plist12948140990988364#449"    cd /Users/qizuo/Downloads/MyLED    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyLED/MyLED-Info.plist -genpkginfo /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app/Info.plist0#
+
+CProcessPCH /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth MyLED/MyLED-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s359879819.501535
+e359879819.883970
+r1
+xProcessPCH
+x/var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth
+xMyLED/MyLED-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@33"Precompile MyLED/MyLED-Prefix.pch359879819#359879819#0(0"0(0#0#51"/Users/qizuo/Downloads/MyLED/MyLED/MyLED-Prefix.pch8610225056#1718"    cd /Users/qizuo/Downloads/MyLED    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-generated-files.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-own-target-headers.hmap -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-all-target-headers.hmap -iquote /Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/MyLED-project-headers.hmap -F/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator -I/Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/include -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources/i386 -I/Users/qizuo/Downloads/MyLED/build/MyLED.build/Debug-iphonesimulator/MyLED.build/DerivedSources -c /Users/qizuo/Downloads/MyLED/MyLED/MyLED-Prefix.pch -o /var/folders/yo/yo+EhC6VGty2mk94FEZwu++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyLED-Prefix-dbeatfskwnkvmrgnejlsfnluxsdg/MyLED-Prefix.pch.pth0#
+
+CTouch /Users/qizuo/Downloads/MyLED/build/Debug-iphonesimulator/MyLED.app
+r0
+

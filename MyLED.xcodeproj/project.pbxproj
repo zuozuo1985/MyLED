@@ -15,6 +15,8 @@
 		C34423E714ECE52C00495B48 /* wintelAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C34423E614ECE52C00495B48 /* wintelAppDelegate.m */; };
 		C34423EA14ECE52C00495B48 /* wintelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C34423E914ECE52C00495B48 /* wintelViewController.m */; };
 		C34423ED14ECE52C00495B48 /* wintelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C34423EB14ECE52C00495B48 /* wintelViewController.xib */; };
+		C34423F414ECE71400495B48 /* LEDB.png in Resources */ = {isa = PBXBuildFile; fileRef = C34423F314ECE71400495B48 /* LEDB.png */; };
+		C34423F614ECE7B900495B48 /* dy.png in Resources */ = {isa = PBXBuildFile; fileRef = C34423F514ECE7B900495B48 /* dy.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,15 +24,17 @@
 		C34423D614ECE52C00495B48 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C34423D814ECE52C00495B48 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C34423DA14ECE52C00495B48 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		C34423DE14ECE52C00495B48 /* MyLED-Info.plist */ = {isa = PBXFileReference; path = "MyLED-Info.plist"; sourceTree = "<group>"; };
+		C34423DE14ECE52C00495B48 /* MyLED-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyLED-Info.plist"; sourceTree = "<group>"; };
 		C34423E014ECE52C00495B48 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C34423E214ECE52C00495B48 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C34423E414ECE52C00495B48 /* MyLED-Prefix.pch */ = {isa = PBXFileReference; path = "MyLED-Prefix.pch"; sourceTree = "<group>"; };
-		C34423E514ECE52C00495B48 /* wintelAppDelegate.h */ = {isa = PBXFileReference; path = wintelAppDelegate.h; sourceTree = "<group>"; };
+		C34423E414ECE52C00495B48 /* MyLED-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyLED-Prefix.pch"; sourceTree = "<group>"; };
+		C34423E514ECE52C00495B48 /* wintelAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = wintelAppDelegate.h; sourceTree = "<group>"; };
 		C34423E614ECE52C00495B48 /* wintelAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wintelAppDelegate.m; sourceTree = "<group>"; };
-		C34423E814ECE52C00495B48 /* wintelViewController.h */ = {isa = PBXFileReference; path = wintelViewController.h; sourceTree = "<group>"; };
+		C34423E814ECE52C00495B48 /* wintelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = wintelViewController.h; sourceTree = "<group>"; };
 		C34423E914ECE52C00495B48 /* wintelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wintelViewController.m; sourceTree = "<group>"; };
 		C34423EC14ECE52C00495B48 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/wintelViewController.xib; sourceTree = "<group>"; };
+		C34423F314ECE71400495B48 /* LEDB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LEDB.png; sourceTree = "<group>"; };
+		C34423F514ECE7B900495B48 /* dy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dy.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		C34423DC14ECE52C00495B48 /* MyLED */ = {
 			isa = PBXGroup;
 			children = (
+				C34423F514ECE7B900495B48 /* dy.png */,
+				C34423F314ECE71400495B48 /* LEDB.png */,
 				C34423E514ECE52C00495B48 /* wintelAppDelegate.h */,
 				C34423E614ECE52C00495B48 /* wintelAppDelegate.m */,
 				C34423E814ECE52C00495B48 /* wintelViewController.h */,
@@ -152,6 +158,8 @@
 			files = (
 				C34423E114ECE52C00495B48 /* InfoPlist.strings in Resources */,
 				C34423ED14ECE52C00495B48 /* wintelViewController.xib in Resources */,
+				C34423F414ECE71400495B48 /* LEDB.png in Resources */,
+				C34423F614ECE7B900495B48 /* dy.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +284,7 @@
 				C34423F214ECE52C00495B48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
